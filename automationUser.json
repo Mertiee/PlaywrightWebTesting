@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "88A8C8E6B36DCFF86F367378D676305A",
+      "domain": "parabank.parasoft.com",
+      "path": "/parabank",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
